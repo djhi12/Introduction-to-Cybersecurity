@@ -1,4 +1,6 @@
-# Understanding Tailgating in Cybersecurity
+# Lesson 1: Getting Started with Physical Security
+
+# Lesson 2: Understanding Tailgating in Cybersecurity
 
 ## What is Tailgating?
 
