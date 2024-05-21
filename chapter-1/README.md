@@ -53,3 +53,5 @@ Tailgating is dangerous because it allows unauthorized people to access places o
 1. **Be Alert**: Always be aware of who is around you when entering a secure area. Don’t let anyone you don’t recognize or trust follow you inside.
 2. **Use Security Measures**: Make sure doors and gates close properly behind you. Use things like key cards or passwords to make sure only authorized people can get in.
 3. **Report Suspicious Activity**: If you see someone trying to sneak in, tell a teacher, security officer, or an adult in charge right away.
+
+---
