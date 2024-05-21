@@ -31,7 +31,7 @@ YouTube: "Introduction to Physical Security" by SANS Institute - A comprehensive
 
 ## What is Tailgating?
 
-![Tailgating](../img/tailgating.jpg)
+![Tailgating](/img/tailgating.jpg)
 
 Tailgating in cybersecurity is when someone who does not have permission to enter a secure area follows closely behind someone who does have permission. This can happen in physical spaces, like buildings, or in digital spaces, like computer networks.
 
