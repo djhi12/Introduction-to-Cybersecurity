@@ -83,31 +83,31 @@ Imagine if someone broke into your house and took your favorite toys or importan
 
 ## Tips to Secure Your Computer
 
-1. Use Strong Passwords
+1. **Use Strong Passwords**
    - What is it? A password is a secret word or phrase that only you know.
    - Why? It stops others from getting into your computer or accounts.
    - How? Make your passwords long and hard to guess. Use a mix of letters, numbers, and symbols. For example, instead of "password123," try "P@ssw0rd!2024."
-2. Keep Your Software Updated
+2. **Keep Your Software Updated**
    - What is it? Software includes your computer’s operating system (like Windows or macOS) and apps.
    - Why? Updates fix problems and protect against new threats.
    - How? Turn on automatic updates in your computer’s settings so it updates by itself.
-3. Install Antivirus Software
+3. **Install Antivirus Software**
    - What is it? Antivirus software is like a guard dog for your computer. It watches out for viruses and malware (bad software).
    - Why? It finds and removes threats before they can do damage.
    - How? Install a trusted antivirus program and keep it updated.
-4. Be Careful What You Click
+4. **Be Careful What You Click**
    - What is it? Clicking links or downloading files from unknown sources can be dangerous.
    - Why? Some links and files contain malware.
    - How? Only click on links from people you know and trust. If something looks suspicious, don’t click it.
-5. Use a Firewall
+5. **Use a Firewall**
    - What is it? A firewall is like a security guard for your internet connection.
    - Why? It blocks unwanted connections to your computer.
    - How? Make sure your firewall is turned on in your computer’s settings.
-6. Back Up Your Data
+6. **Back Up Your Data**
    - What is it? Backing up means saving copies of your important files.
    - Why? If your computer gets hacked or breaks, you won't lose your stuff.
    - How? Use an external hard drive or a cloud service (like Google Drive or iCloud) to back up your files regularly.
-7. Be Careful with Public Wi-Fi
+7. **Be Careful with Public Wi-Fi**
    - What is it? Public Wi-Fi is internet you can use in places like coffee shops or libraries.
    - Why? It's not always secure, and hackers can see what you're doing.
    - How? Avoid doing important things like banking or shopping on public Wi-Fi. Use a Virtual Private Network (VPN) if you must use public Wi-Fi.
