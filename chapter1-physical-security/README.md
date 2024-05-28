@@ -56,7 +56,7 @@ Tailgating is dangerous because it allows unauthorized people to access places o
 
 ---
 
-# Introduction to Dumpster Diving in Cybersecurity
+# Lesson 3: Introduction to Dumpster Diving in Cybersecurity
 
 ## What is Dumpster Diving?
 
