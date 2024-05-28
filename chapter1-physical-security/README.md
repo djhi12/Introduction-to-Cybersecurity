@@ -55,3 +55,18 @@ Tailgating is dangerous because it allows unauthorized people to access places o
 3. **Report Suspicious Activity**: If you see someone trying to sneak in, tell a teacher, security officer, or an adult in charge right away.
 
 ---
+
+# Introduction to Dumpster Diving in Cybersecurity
+
+## What is Dumpster Diving?
+
+Dumpster diving in the context of cybersecurity is a method where someone goes through the trash (dumpster) to find valuable information that can be used to gain unauthorized access to systems or data. This information could be anything from discarded documents, notes, or even old electronic devices that haven't been properly wiped of data.
+
+## Why is it Important to Know About Dumpster Diving?
+
+Even though it sounds like something from a spy movie, dumpster diving is a real threat. People can find sensitive information that hasn't been disposed of correctly, such as:
+
+- Passwords: Written down on paper or sticky notes.
+- Personal Information: Names, addresses, phone numbers, social security numbers.
+- Financial Data: Bank statements, credit card details.
+- Corporate Information: Internal memos, business plans, confidential reports.
