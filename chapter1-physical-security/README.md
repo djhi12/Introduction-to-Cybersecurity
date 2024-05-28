@@ -79,6 +79,8 @@ Even though it sounds like something from a spy movie, dumpster diving is a real
 
 ## Why is it Important to Secure Your Computer?
 
+<img src="/img/computer.png" alt="dumpster" width="100" />
+
 Imagine if someone broke into your house and took your favorite toys or important schoolwork. That's what can happen if your computer isn't secure. Bad guys can steal your photos, videos, or even use your computer to do bad things.
 
 ## Tips to Secure Your Computer
