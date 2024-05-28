@@ -60,6 +60,8 @@ Tailgating is dangerous because it allows unauthorized people to access places o
 
 ## What is Dumpster Diving?
 
+<img src="/img/dumpster.png" alt="dumpster" width="100" />
+
 Dumpster diving in the context of cybersecurity is a method where someone goes through the trash (dumpster) to find valuable information that can be used to gain unauthorized access to systems or data. This information could be anything from discarded documents, notes, or even old electronic devices that haven't been properly wiped of data.
 
 ## Why is it Important to Know About Dumpster Diving?
