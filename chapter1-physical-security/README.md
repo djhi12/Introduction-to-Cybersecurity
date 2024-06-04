@@ -117,6 +117,6 @@ Imagine if someone broke into your house and took your favorite toys or importan
 
    ***
 
-   # Physical Locks for Your Server Room
+   # Lesson 5: Physical Locks for Your Server Room
 
    ***
