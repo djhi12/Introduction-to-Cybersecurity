@@ -110,6 +110,9 @@ Imagine if someone broke into your house and took your favorite toys or importan
    - Why? If your computer gets hacked or breaks, you won't lose your stuff.
    - How? Use an external hard drive or a cloud service (like Google Drive or iCloud) to back up your files regularly.
 7. **Be Careful with Public Wi-Fi**
+
    - What is it? Public Wi-Fi is internet you can use in places like coffee shops or libraries.
    - Why? It's not always secure, and hackers can see what you're doing.
    - How? Avoid doing important things like banking or shopping on public Wi-Fi. Use a Virtual Private Network (VPN) if you must use public Wi-Fi.
+
+   ***
