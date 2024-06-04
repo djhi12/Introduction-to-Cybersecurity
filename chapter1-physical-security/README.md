@@ -116,3 +116,7 @@ Imagine if someone broke into your house and took your favorite toys or importan
    - How? Avoid doing important things like banking or shopping on public Wi-Fi. Use a Virtual Private Network (VPN) if you must use public Wi-Fi.
 
    ***
+
+   # Physical Locks for Your Server Room
+
+   ***
